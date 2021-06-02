@@ -1,0 +1,3 @@
+[submodule "registry-server"]
+	path = registry-server
+	url = https://github.com/rat-and/registry-server
