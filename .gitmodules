@@ -7,3 +7,6 @@
 [submodule "currency-conversion"]
 	path = currency-conversion
 	url = https://github.com/rat-and/currency-conversion
+[submodule "currency-api-gateway"]
+	path = currency-api-gateway
+	url = https://github.com/rat-and/currency-api-gateway
