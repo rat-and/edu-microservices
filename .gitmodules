@@ -1,3 +1,6 @@
 [submodule "registry-server"]
 	path = registry-server
 	url = https://github.com/rat-and/registry-server
+[submodule "currency-exchange"]
+	path = currency-exchange
+	url = https://github.com/rat-and/currency-exchange
