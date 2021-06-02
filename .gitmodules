@@ -4,3 +4,6 @@
 [submodule "currency-exchange"]
 	path = currency-exchange
 	url = https://github.com/rat-and/currency-exchange
+[submodule "currency-conversion"]
+	path = currency-conversion
+	url = https://github.com/rat-and/currency-conversion
